@@ -5,13 +5,35 @@ import home from './house.jpg'
 import arrow from './arrow.png'
 import stack from './stack1.png'
 import search from './search.jpg'
+import loop from './loop.png'
+import shuffle from './shuffle.png'
+import next from './next.png'
+import prev from './prev.png'
+import play from './play.png'
+import mike from './mike.png'
+import queue from './loop.png'
+import speaker from './speakr.png'
+import volume from './speaker.png'
+import mini from './minimize.png'
+import zoom from './zoom.png'
 
 export const assets = {
     bell,
     home,
     arrow,
     stack,
-    search
+    search,
+    loop,
+    shuffle,
+    prev,
+    play,
+    next,
+    mike,
+    queue,
+    speaker,
+    volume,
+    mini,
+    zoom,
 }
 export const albumdata = [
     {
